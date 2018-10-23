@@ -1,2 +1,2 @@
 # BE_Project
-Final Year BE Project on Robotic Arm
+Final Year BE Project on "Intelligent Robotic Arm to Pick and Place Target Objects"
